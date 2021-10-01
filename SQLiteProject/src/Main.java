@@ -29,7 +29,7 @@ public class Main {
 				
 			}
 			stat1.close();
-			//con.close();
+			
 			//데이터 추가
 			
 		
